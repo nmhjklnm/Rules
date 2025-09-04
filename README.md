@@ -1,0 +1,1 @@
+A collection of rules and configurations for various applications.
